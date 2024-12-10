@@ -1,3 +1,5 @@
-Overview
-Purpose
-Strategy
+Overview:
+Purpose:
+Strategy:
+Test Cases:
+Resources:

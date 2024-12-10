@@ -1,2 +1,2 @@
 # Test-Plan
-Creatint an Initial Test Plan
+Creating an Initial Test Plan
